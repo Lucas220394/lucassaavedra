@@ -3,6 +3,8 @@
 Sitio web de **Lucas Saavedra** — cantante, compositor y productor musical uruguayo,
 fundador de **PM Music Records** (Montevideo).
 
+**En vivo:** https://lucas220394.github.io/lucassaavedra/
+
 Construido con **Next.js 16 (App Router) + React 19 + Tailwind CSS v4**.
 La estructura, los efectos, las transiciones, los botones y la tipografía están
 tomados de la plantilla *Waveform* de Framer usada como referencia; los textos
@@ -12,9 +14,22 @@ tomados de la plantilla *Waveform* de Framer usada como referencia; los textos
 
 ```bash
 npm run dev     # http://localhost:3000
-npm run build   # build de producción
-npm run start   # sirve el build
+npm run build   # export estático -> ./out
 ```
+
+## Despliegue en GitHub Pages
+
+```bash
+npm run deploy
+```
+
+Hace el export estático (`output: "export"` con `GITHUB_PAGES=true` →
+`basePath: "/lucassaavedra"`) y publica `./out` en la rama `gh-pages`
+mediante un worktree temporal. GitHub Pages sirve esa rama en:
+
+**https://lucas220394.github.io/lucassaavedra/**
+
+En local (`npm run dev` / `npm run build`) el sitio se sirve desde la raíz, sin `basePath`.
 
 ## Estructura
 
