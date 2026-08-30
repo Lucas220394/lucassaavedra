@@ -248,9 +248,9 @@ export const footer = {
     "Tus ideas merecen más que una maqueta. Démosles forma de canciones que perduran.",
   navHeading: "Navegación",
   socialHeading: "Redes",
-  // Enlaces reales pendientes — se dejan como "#" según lo indicado.
+  // Instagram ya tiene enlace real; el resto sigue pendiente ("#").
   socials: [
-    { label: "Instagram", href: "#" },
+    { label: "Instagram", href: "https://www.instagram.com/lucasxsaavedra/" },
     { label: "Twitter", href: "#" },
     { label: "YouTube", href: "#" },
     { label: "Facebook", href: "#" },

@@ -33,16 +33,22 @@ export default function Footer() {
           <div>
             <p className="eyebrow mb-4">{footer.socialHeading}</p>
             <ul className="flex flex-col gap-3">
-              {footer.socials.map((s) => (
-                <li key={s.label}>
-                  <a
-                    href={s.href}
-                    className="text-sm text-muted-strong transition-colors hover:text-foreground"
-                  >
-                    {s.label}
-                  </a>
-                </li>
-              ))}
+              {footer.socials.map((s) => {
+                const external = s.href.startsWith("http");
+                return (
+                  <li key={s.label}>
+                    <a
+                      href={s.href}
+                      {...(external
+                        ? { target: "_blank", rel: "noopener noreferrer" }
+                        : {})}
+                      className="text-sm text-muted-strong transition-colors hover:text-foreground"
+                    >
+                      {s.label}
+                    </a>
+                  </li>
+                );
+              })}
             </ul>
           </div>
         </div>

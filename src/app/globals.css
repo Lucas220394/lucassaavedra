@@ -240,3 +240,69 @@ body {
   transform: scaleX(1);
   transform-origin: left;
 }
+
+/* ---------- Ondas animadas del Hero (centradas, detrás del H1) ---------- */
+.contenedor-ondas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 260px;
+  overflow: hidden;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.9;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 12%,
+    #000 88%,
+    transparent
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 12%,
+    #000 88%,
+    transparent
+  );
+}
+
+.svg-ondas {
+  width: 200%;
+  height: 100%;
+}
+
+.onda {
+  animation-name: moverOnda;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.4));
+}
+
+.onda1 {
+  animation-duration: 6s;
+}
+.onda2 {
+  animation-duration: 4s;
+}
+.onda3 {
+  animation-duration: 3s;
+}
+
+@keyframes moverOnda {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    /* Un ciclo completo del viewBox (1000 unidades) = bucle invisible */
+    transform: translateX(-1000px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .onda {
+    animation: none;
+  }
+}

@@ -28,7 +28,8 @@ const gitQuiet = (args, cwd = ROOT) => {
 };
 
 console.log("→ Build estático (GITHUB_PAGES=true)…");
-execFileSync(process.platform === "win32" ? "npm.cmd" : "npm", ["run", "build"], {
+const nextBin = resolve(ROOT, "node_modules", "next", "dist", "bin", "next");
+execFileSync(process.execPath, [nextBin, "build"], {
   stdio: "inherit",
   cwd: ROOT,
   env: { ...process.env, GITHUB_PAGES: "true" },

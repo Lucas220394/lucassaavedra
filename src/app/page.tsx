@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Nav from "@/components/Nav";
+import HeroWaves from "@/components/HeroWaves";
 import Footer from "@/components/Footer";
 import Reveal from "@/components/Reveal";
 import Marquee from "@/components/Marquee";
@@ -32,7 +33,8 @@ export default function Home() {
             aria-hidden
             className="pointer-events-none absolute left-1/2 top-0 h-[520px] w-[820px] -translate-x-1/2 rounded-full bg-white/[0.06] blur-[120px]"
           />
-          <div className="container-x relative">
+          <HeroWaves />
+          <div className="container-x relative z-10">
             <Reveal as="p" className="eyebrow">
               {hero.eyebrow}
             </Reveal>
