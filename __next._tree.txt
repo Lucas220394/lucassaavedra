@@ -23,13 +23,7 @@
 :HL["https://static.wixstatic.com/media/913ffd_4d083d55f6fe44878f1bddf3ef37c9ab~mv2.jpg/v1/fill/w_420,h_420,al_c,q_85,enc_auto/g.jpg","image"]
 :HL["https://static.wixstatic.com/media/913ffd_52309462446f46a98d06d9164905b2b0~mv2.png/v1/fill/w_420,h_420,al_c,q_85,enc_auto/g.png","image"]
 :HL["https://static.wixstatic.com/media/913ffd_80803138e3bd4a74884f5b53e555945d~mv2.png/v1/fill/w_420,h_420,al_c,q_85,enc_auto/g.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_cf1a1d316d7d4c8abd1fc73a7055af9e~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_c7a45d1cfd6c4999aca703a32014b9c1~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_962bbda5b116429b8d4cf0d3f8edcfaf~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_3cd9464be553486cb5de7b79b141521c~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_1a356b1f54a646479f4b3b5968a66f4c~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
-:HL["https://static.wixstatic.com/media/913ffd_f682d4c43ee94f6986df4e48d2a50297~mv2_d_3000_3000_s_4_2.png/v1/fill/w_640,h_800,al_c,q_85,enc_auto/i.png","image"]
 :HL["https://static.wixstatic.com/media/913ffd_ca255bbbb2d149f1b4b427207f0302fd~mv2.jpg/v1/fill/w_1100,h_1300,al_c,q_85,enc_auto/f.jpg","image"]
 :HL["https://static.wixstatic.com/media/913ffd_4d083d55f6fe44878f1bddf3ef37c9ab~mv2.jpg/v1/fill/w_560,h_560,al_c,q_85,enc_auto/g.jpg","image"]
 :HL["https://static.wixstatic.com/media/913ffd_52309462446f46a98d06d9164905b2b0~mv2.png/v1/fill/w_560,h_560,al_c,q_85,enc_auto/g.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"r_Z7irU_DygyVUL21MwGs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"f-tFC5U_mnGRXwTKwqLKE"}
