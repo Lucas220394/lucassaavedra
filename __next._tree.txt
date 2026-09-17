@@ -1,4 +1,4 @@
-:HL["/lucassaavedra/_next/static/chunks/0_d9xnliqvlmj.css","style"]
+:HL["/lucassaavedra/_next/static/chunks/0phzjqw8epwz9.css","style"]
 :HL["/lucassaavedra/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lucassaavedra/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lucassaavedra/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 :HL["/lucassaavedra/estudio-principal.jpg","image"]
 :HL["https://static.wixstatic.com/media/913ffd_506379157e62461ea821e68b8d7f7f9b~mv2.jpg/v1/fill/w_1100,h_1300,al_c,q_85,enc_auto/f.jpg","image"]
 :HL["https://static.wixstatic.com/media/913ffd_ca255bbbb2d149f1b4b427207f0302fd~mv2.jpg/v1/fill/w_1100,h_1300,al_c,q_85,enc_auto/f.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"fIYPEHPu0cORXpWSGipTU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"aVGkrurIDvzIyy2qMe97r"}
