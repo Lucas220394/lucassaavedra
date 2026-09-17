@@ -1,4 +1,4 @@
-:HL["/lucassaavedra/_next/static/chunks/21cuvgdsrm5nj.css","style"]
+:HL["/lucassaavedra/_next/static/chunks/0984e3pnqrw3o.css","style"]
 :HL["/lucassaavedra/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lucassaavedra/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lucassaavedra/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,10 +7,4 @@
 :HL["/lucassaavedra/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lucassaavedra/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://static.wixstatic.com/media/913ffd_4d083d55f6fe44878f1bddf3ef37c9ab~mv2.jpg/v1/fill/w_1920,h_1280,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_506379157e62461ea821e68b8d7f7f9b~mv2.jpg/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_9c1e0ecd00564bdb91b19d7a55d94242~mv2.jpg/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_4d083d55f6fe44878f1bddf3ef37c9ab~mv2.jpg/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_ca255bbbb2d149f1b4b427207f0302fd~mv2.jpg/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_0483a3fa3f7f459c9e027105e8c6f153~mv2.jpg/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.jpg","image"]
-:HL["https://static.wixstatic.com/media/913ffd_9a16a4ae7ab443fbace7c7e066f2d315~mv2.png/v1/fill/w_900,h_675,al_c,q_85,enc_auto/f.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"produccion","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Zm4jfRcETNdmT5aydctFS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"produccion","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"h6RIhUMa9fEtNI6TSd9jp"}
